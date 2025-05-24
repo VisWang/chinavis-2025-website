@@ -12,6 +12,8 @@ export const zh = {
     有意愿申请志愿者的同学，请在完成大会注册并成功收到组委会通过邮件发送的注册号后，前往 https://www.wjx.cn/vm/Ok2D5wU.aspx 提交志愿者申请，申请时需提交导师推荐意见（<a href="/2025/volunteer/rec_form_cn.docx" target="_blank">模板</a>），我们将根据您填写的资料进行志愿者资格审核和志愿者选拔，选拔结果会通过邮件或电话通知到志愿者。
 
     入选的同学将按照志愿者优惠缴纳注册费，未入选同学按照大会注册类型缴纳注册费，<span style="color: red">**请申请志愿者的同学等待选拔结果公布后再进行缴费。**</span>
+    
+    如有任何申请相关问题，请联系：chinavis_volunteer@163.com
 
     ## 志愿者申请资格
 
@@ -86,6 +88,8 @@ export const en = {
     Students interested in applying as volunteers should submit their volunteer application at https://www.wjx.cn/vm/mBK2953.aspx with a recommendation letter (<a href="/2025/volunteer/rec_form_en.docx" target="_blank">template</a>) after completing the conference registration and successfully receiving a registration number via email from the organizing committee. We will review the qualifications and select volunteers based on the information provided. The selection results will be notified to the volunteers via email or phone.
 
     Selected students will pay the registration fee at a discounted rate for volunteers, while those not selected will pay according to the regular conference registration type. <span style="color: red">**Please wait for the announcement of the selection results before making any payments.**</span>
+
+    If you have any problems with the application, please contact chinavis_volunteer@163.com.
 
     ## Application Qualifications
 
